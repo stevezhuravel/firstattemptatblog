@@ -1,0 +1,19 @@
+.complainbox{
+    background:yellowgreen;
+    font-family: "librebaskerville-regular", serif;
+    font-size: 1.6rem;
+    line-height: 1.875;
+    color: #5f5f5f;
+    margin: 0;
+    padding: 0;
+}
+
+.form-field{
+    margin: auto;
+    width: 60%;
+    padding: 10px;
+}
+.header{
+    text-align: right;
+    padding: 1s0px;
+}
